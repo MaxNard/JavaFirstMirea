@@ -1,3 +1,4 @@
+package ru.mirea.task5;
 public class Keon extends Dog{
   private int lengthOfTail;
 

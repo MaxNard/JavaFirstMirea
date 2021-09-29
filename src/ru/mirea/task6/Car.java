@@ -1,3 +1,4 @@
+package ru.mirea.task6;
 public class Car implements Nameable
 {
   private String name;

@@ -1,3 +1,4 @@
+package ru.mirea.task7;
 public class Circle extends Shape {
   protected double radius;
 

@@ -1,3 +1,4 @@
+package ru.mirea.task5;
 public class Plate extends Dish {
 
   private int radius;

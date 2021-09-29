@@ -1,3 +1,5 @@
+package ru.mirea.task3;
+
 public class Human{
   private int age;
   private String name;
@@ -19,4 +21,6 @@ public class Human{
   public String getName(){
     return name;
   }
+
+
 }

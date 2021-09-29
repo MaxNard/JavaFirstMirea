@@ -1,3 +1,4 @@
+package ru.mirea.task5;
 public class Dalmatian extends Dog{
   private int numberOfSpots;
 

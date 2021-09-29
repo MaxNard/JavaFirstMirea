@@ -1,3 +1,5 @@
+package ru.mirea.task7;
+
 public class Rectangle extends Shape {
   protected double width;
   protected double length;

@@ -1,3 +1,4 @@
+package ru.mirea.task6;
 class Main {
   public static void main(String[] args) {
     Car Car1 = new Car();

@@ -1,3 +1,4 @@
+package ru.mirea.task6;
 public class Umbrella implements Priceable
 {
   private int price;
