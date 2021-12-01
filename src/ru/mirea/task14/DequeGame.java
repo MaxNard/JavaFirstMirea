@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Deque;
 import java.util.*;
 //addFirst-закинуть remove-взять
-class Main {
+class DequeGame {
   public static void main(String[] args) {
     Deque<Integer> firstQ = new ArrayDeque<Integer>();
     Deque<Integer> secondQ = new ArrayDeque<Integer>();
