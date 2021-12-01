@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-class Main {
+class LinkedListTest {
   public static void allOut(LinkedList<Integer> list)
   {
     for(int i = 0; i < list.size(); i++)
