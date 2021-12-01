@@ -1,5 +1,5 @@
 
-class Main {
+class FastSortTest {
   public static void main(String[] main)
   {
     //Создание объектов и инициализация оценок.
