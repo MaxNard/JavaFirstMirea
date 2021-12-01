@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Queue;
 import java.util.*;
 //add-закинуть remove-взять
-class Main {
+class QueueGame {
   public static void main(String[] args) {
     Queue<Integer> firstQ = new ArrayDeque<Integer>();
     Queue<Integer> secondQ = new ArrayDeque<Integer>();
