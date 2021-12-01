@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.LinkedList;
 import java.util.*;
 //addFirst-закинуть remove-взять
-class Main {
+class DoubleList {
   public static void main(String[] args) {
     LinkedList<Integer> firstQ = new LinkedList<Integer>();
     LinkedList<Integer> secondQ = new LinkedList<Integer>();
