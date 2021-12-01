@@ -1,3 +1,4 @@
+package ru.mirea.task12;
 
 public class SortingStudentsByGPA implements Comparator {
 

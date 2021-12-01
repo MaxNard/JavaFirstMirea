@@ -1,3 +1,4 @@
+package ru.mirea.task13;
 import java.util.LinkedList;
 
 class LinkedListTest {

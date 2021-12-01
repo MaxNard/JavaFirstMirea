@@ -1,3 +1,4 @@
+package ru.mirea.task14;
 import java.util.Scanner;
 import java.util.Queue;
 import java.util.*;

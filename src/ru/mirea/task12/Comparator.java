@@ -1,3 +1,5 @@
+package ru.mirea.task12;
+
 public interface Comparator {
     Student[] fastSort(Student[] arr, int left, int right);
 }

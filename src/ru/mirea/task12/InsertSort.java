@@ -1,3 +1,5 @@
+package ru.mirea.task12;
+
 class InsertSort {
   public static void main(String[] args) {
     int [] arr = {10, 7, 5, 1, 2};
@@ -22,9 +24,5 @@ class InsertSort {
     for (int p = 1; p < arr.length; p++){
       System.out.print(", "+arr[p]);
     }
-  }
-
-  class Student{
-    private int i = 0;
   }
 }

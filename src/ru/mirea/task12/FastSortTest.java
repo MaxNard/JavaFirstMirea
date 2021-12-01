@@ -1,3 +1,4 @@
+package ru.mirea.task12;
 
 class FastSortTest {
   public static void main(String[] main)
