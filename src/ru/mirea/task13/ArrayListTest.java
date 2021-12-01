@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-class Main {
+class ArrayListTest {
   public static void allOut(ArrayList<String> list)
   {
     for(int i = 0; i < list.size(); i++)
