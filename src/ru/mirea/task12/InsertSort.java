@@ -1,4 +1,4 @@
-class Main {
+class InsertSort {
   public static void main(String[] args) {
     int [] arr = {10, 7, 5, 1, 2};
     for (int i = 0; i<arr.length; i++){
