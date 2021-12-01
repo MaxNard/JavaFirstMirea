@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Stack;
 //push-закинуть pop-взять
-class Main {
+class StackGame {
   public static void main(String[] args) {
     Stack<Integer> firstReal = new Stack<Integer>();
     Stack<Integer> firstBuff = new Stack<Integer>();
